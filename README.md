@@ -173,6 +173,4 @@ git push -u origin main
 
 ---
 
-## 📮 Contact
 
-Issues or ideas? Open an issue in the GitHub repo or document them in a `TODO.md`.
