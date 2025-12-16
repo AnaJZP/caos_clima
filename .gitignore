@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# Data and outputs
+data/
+outputs/
+!data/datamx_climate.json
+
+# System
+.DS_Store
+Thumbs.db
